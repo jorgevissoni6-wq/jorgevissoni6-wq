@@ -1,54 +1,61 @@
 <div align="center">
 
-# Hola, soy Jorge
+<img src="https://github.com/jorgevissoni6-wq.png?size=320" width="170" alt="Foto de perfil de Jorge" />
+
+# Jorge Vissoni
 
 ### Frontend Developer en formación
 
-Construyo interfaces web limpias, responsivas y enfocadas en una buena experiencia de usuario.
+**JavaScript · HTML · CSS**
 
-<p>
-  <a href="https://github.com/jorgevissoni6-wq">
-    <img src="https://img.shields.io/badge/GitHub-jorgevissoni6--wq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/JavaScript-en%20aprendizaje-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-estructura-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-diseño-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<a href="https://github.com/jorgevissoni6-wq">
+  <img src="https://img.shields.io/badge/GitHub-jorgevissoni6--wq-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
+</a>
 
 </div>
 
 ---
 
-## Sobre mí
+## `jorge@frontend:~$ whoami`
 
-Soy un desarrollador frontend en formación, enfocado actualmente en fortalecer mis bases con **JavaScript, HTML y CSS**. Me gusta transformar ideas en páginas web funcionales, visualmente atractivas y adaptadas a distintos dispositivos.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Hola, soy Jorge                                             │
+│                                                              │
+│  Rol       : Frontend Developer en formación                 │
+│  Enfoque   : Interfaces web modernas y responsivas           │
+│  Stack     : JavaScript · HTML5 · CSS3                       │
+│  Estado    : Construyendo proyectos y aprendiendo cada día   │
+│  Objetivo  : Crecer como desarrollador frontend               │
+└──────────────────────────────────────────────────────────────┘
+```
 
-- Actualmente estoy aprendiendo y practicando desarrollo frontend.
-- Me interesa crear proyectos reales para seguir mejorando.
-- Estoy construyendo mi portafolio paso a paso.
-- Abierto a aprender, colaborar y recibir feedback.
+Me gusta transformar ideas en páginas web funcionales, visualmente atractivas y adaptadas a distintos dispositivos. Actualmente estoy fortaleciendo mis bases y construyendo proyectos reales para mi portafolio.
 
 ## Tecnologías
 
 <div align="center">
 
-| Estructura | Estilos | Programación |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" /> | <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" /> | <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" /> |
-| HTML5 | CSS3 | JavaScript |
+<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML5, CSS3 y JavaScript" />
+
+<br />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
 
 </div>
 
 ## Lo que estoy construyendo
 
-- Páginas web responsivas.
+- Páginas web responsivas y accesibles.
 - Interfaces modernas con HTML y CSS.
 - Funcionalidades interactivas con JavaScript.
-- Proyectos prácticos para mi portafolio.
+- Proyectos prácticos para seguir creciendo.
 
 ## Proyectos destacados
 
-> Esta sección irá creciendo a medida que publique nuevos proyectos. Cada proyecto tendrá una descripción, una demo y su repositorio.
+> Esta sección irá creciendo a medida que publique nuevos proyectos.
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -56,10 +63,16 @@ Soy un desarrollador frontend en formación, enfocado actualmente en fortalecer 
 
 ## Estadísticas de GitHub
 
+Las tarjetas anteriores dejaron de cargar porque el servicio original está devolviendo un error 503. Las reemplacé por servicios alternativos que están respondiendo correctamente.
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgevissoni6-wq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgevissoni6-wq&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgevissoni6-wq&theme=tokyonight" width="95%" alt="Resumen del perfil de GitHub" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgevissoni6-wq&theme=tokyonight" height="170" alt="Lenguajes de los repositorios" />
+<img src="https://streak-stats.demolab.com?user=jorgevissoni6-wq&theme=tokyonight&hide_border=true" height="170" alt="Racha de contribuciones" />
 
 </div>
 
