@@ -6,6 +6,10 @@
 
 Construyo interfaces web limpias, responsivas y enfocadas en una buena experiencia de usuario.
 
+<p align="center">
+  <img src="./ascii-frontend.gif" width="850" alt="Animación ASCII de terminal frontend" />
+</p>
+
 <p>
   <a href="https://github.com/jorgevissoni6-wq">
     <img src="https://img.shields.io/badge/GitHub-jorgevissoni6--wq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
